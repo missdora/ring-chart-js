@@ -7,7 +7,7 @@
       circleRadius : 50,
       animateInterval : 10,
       type : 'ring',
-      colors : ['#ff6600', '#00bfff', '#ff6600', '#00bfff', '#ff6600', '#00bfff', '#ff6600', '#00bfff', '#ff6600', '#00bfff']
+      colors : ['#ff6600', '#00bfff', '#ff6600', '#fcb454', '#00bfff', '#ff6600', '#00bfff', '#ff6600', '#00bfff', '#ff6600', '#00bfff']
     }, options);
     this.selector = ele;
     this.getCanvas();
